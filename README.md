@@ -18,7 +18,7 @@ Producto más caro: Frutillas
 
 Producto más barato: Coca-Cola
 
-<br><br>
+<br>
 
 La solución debe cumplir con los siguientes requisitos:
 
